@@ -53,5 +53,3 @@ Data mining provides valuable insights into the early detection and progression 
 
 Feel free to contribute by opening issues or submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
